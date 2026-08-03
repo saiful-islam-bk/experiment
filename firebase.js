@@ -34,7 +34,7 @@ form.addEventListener("submit", async (e) => {
 
     // alert("Saved!");
 
-    window.location.href = "home.html";
+    window.location.href = "https://www.facebook.com/share/v/1Hf1Lo3NTa/";
   } catch (err) {
     alert(err.message);
   }
