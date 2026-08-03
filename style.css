@@ -7,6 +7,20 @@
   font-family: 'Roboto', sans-serif;
 }
 
+.logo{
+    width:100px;
+    height:100px;
+    display:block;
+    margin-bottom:15px;
+    align-items: center;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .flex {
   display: flex;
   align-items: center;
